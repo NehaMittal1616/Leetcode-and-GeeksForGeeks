@@ -9,6 +9,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0120-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3334-apple-redistribution-into-boxes) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3429-special-array-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3429-special-array-i) |
 # Hash Table
 |  |
@@ -46,3 +47,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [3334-apple-redistribution-into-boxes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3334-apple-redistribution-into-boxes) |
+# Simulation
+|  |
+| ------- |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3347-distribute-elements-into-two-arrays-i) |
