@@ -6,6 +6,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 | [3429-special-array-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3429-special-array-i) |
 # Hash Table
 |  |
@@ -23,7 +24,12 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 # Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0062-unique-paths) |
+# Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
