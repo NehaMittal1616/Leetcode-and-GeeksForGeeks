@@ -7,3 +7,11 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [3429-special-array-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3429-special-array-i) |
+# Hash Table
+|  |
+| ------- |
+| [3408-count-the-number-of-special-characters-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3408-count-the-number-of-special-characters-i) |
+# String
+|  |
+| ------- |
+| [3408-count-the-number-of-special-characters-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3408-count-the-number-of-special-characters-i) |
