@@ -12,10 +12,12 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Hash Table
 |  |
 | ------- |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3408-count-the-number-of-special-characters-i) |
 # String
 |  |
 | ------- |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3408-count-the-number-of-special-characters-i) |
 # Math
 |  |
