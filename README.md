@@ -13,6 +13,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [3311-ant-on-the-boundary](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3321-type-of-triangle) |
+| [3324-split-the-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3330-modify-the-matrix) |
 | [3334-apple-redistribution-into-boxes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -20,6 +21,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Hash Table
 |  |
 | ------- |
+| [3324-split-the-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3324-split-the-array) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3408-count-the-number-of-special-characters-i) |
 # String
@@ -93,3 +95,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+# Counting
+|  |
+| ------- |
+| [3324-split-the-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3324-split-the-array) |
