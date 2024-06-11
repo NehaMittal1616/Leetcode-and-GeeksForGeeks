@@ -8,6 +8,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0120-triangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3334-apple-redistribution-into-boxes) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -26,6 +27,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0062-unique-paths) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3321-type-of-triangle) |
 # Dynamic Programming
 |  |
@@ -48,9 +50,18 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Sorting
 |  |
 | ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3334-apple-redistribution-into-boxes) |
 # Simulation
 |  |
 | ------- |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3347-distribute-elements-into-two-arrays-i) |
+# Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+# Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
