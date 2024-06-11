@@ -9,6 +9,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0120-triangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3321-type-of-triangle) |
@@ -24,6 +25,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # String
 |  |
 | ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3408-count-the-number-of-special-characters-i) |
 # Math
@@ -75,3 +77,19 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [3311-ant-on-the-boundary](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3311-ant-on-the-boundary) |
+# Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+# Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+# String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+# Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
