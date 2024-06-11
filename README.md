@@ -9,6 +9,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0120-triangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3311-ant-on-the-boundary](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3321-type-of-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3330-modify-the-matrix) |
@@ -59,6 +60,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Simulation
 |  |
 | ------- |
+| [3311-ant-on-the-boundary](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3347-distribute-elements-into-two-arrays-i) |
 # Geometry
@@ -69,3 +71,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+# Prefix Sum
+|  |
+| ------- |
+| [3311-ant-on-the-boundary](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3311-ant-on-the-boundary) |
