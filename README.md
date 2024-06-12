@@ -8,6 +8,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0120-triangle) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -22,6 +23,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Hash Table
 |  |
 | ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3324-split-the-array) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
@@ -60,6 +62,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Sorting
 |  |
 | ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3334-apple-redistribution-into-boxes) |
