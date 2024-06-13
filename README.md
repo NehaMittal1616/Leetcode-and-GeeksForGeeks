@@ -9,6 +9,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0120-triangle) |
 | [0518-coin-change-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0518-coin-change-ii) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -98,6 +99,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # String Matching
 |  |
 | ------- |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 # Hash Function
@@ -113,3 +115,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
+# Two Pointers
+|  |
+| ------- |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
