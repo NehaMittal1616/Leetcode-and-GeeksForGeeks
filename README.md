@@ -71,6 +71,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Simulation
 |  |
 | ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3311-ant-on-the-boundary](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -97,6 +98,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # String Matching
 |  |
 | ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 # Hash Function
 |  |
@@ -107,3 +109,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3324-split-the-array) |
+# Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
