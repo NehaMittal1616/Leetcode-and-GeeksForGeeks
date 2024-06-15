@@ -10,6 +10,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0120-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0120-triangle) |
 | [0518-coin-change-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0518-coin-change-ii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [3034-points-that-intersect-with-cars](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -26,6 +27,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Hash Table
 |  |
 | ------- |
+| [3034-points-that-intersect-with-cars](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -89,6 +91,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Prefix Sum
 |  |
 | ------- |
+| [3034-points-that-intersect-with-cars](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3034-points-that-intersect-with-cars) |
 | [3311-ant-on-the-boundary](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3311-ant-on-the-boundary) |
 # Trie
 |  |
