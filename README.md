@@ -110,6 +110,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3055-maximum-odd-binary-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 # Hash Function
