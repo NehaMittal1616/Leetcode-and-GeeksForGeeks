@@ -45,6 +45,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0062-unique-paths](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0062-unique-paths) |
 | [3055-maximum-odd-binary-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3055-maximum-odd-binary-number) |
+| [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3321-type-of-triangle) |
 # Dynamic Programming
