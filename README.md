@@ -116,6 +116,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3019-furthest-point-from-origin](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3019-furthest-point-from-origin) |
 | [3055-maximum-odd-binary-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3055-maximum-odd-binary-number) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 # Hash Function
@@ -125,6 +126,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Counting
 |  |
 | ------- |
+| [3019-furthest-point-from-origin](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3019-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3324-split-the-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3324-split-the-array) |
 # Stack
