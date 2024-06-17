@@ -114,6 +114,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0072-edit-distance) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -136,6 +137,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0020-valid-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
 # Two Pointers
 |  |
