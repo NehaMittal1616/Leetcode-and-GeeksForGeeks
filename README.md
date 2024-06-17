@@ -10,6 +10,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0120-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0120-triangle) |
 | [0518-coin-change-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0518-coin-change-ii) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3034-points-that-intersect-with-cars](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3034-points-that-intersect-with-cars) |
 | [3164-last-visited-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3164-last-visited-integers) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3193-maximum-strong-pair-xor-i) |
