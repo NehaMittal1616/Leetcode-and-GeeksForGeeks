@@ -11,6 +11,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0300-longest-increasing-subsequence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0300-longest-increasing-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0518-coin-change-ii) |
+| [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -32,6 +33,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Hash Table
 |  |
 | ------- |
+| [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -65,6 +67,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0300-longest-increasing-subsequence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0518-coin-change-ii) |
+| [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 # Combinatorics
 |  |
@@ -126,6 +129,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0020-valid-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0392-is-subsequence) |
+| [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -155,6 +159,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0392-is-subsequence) |
+| [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Bit Manipulation
