@@ -11,6 +11,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0300-longest-increasing-subsequence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0300-longest-increasing-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0518-coin-change-ii) |
+| [0941-sort-array-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0941-sort-array-by-parity) |
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -86,6 +87,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Sorting
 |  |
 | ------- |
+| [0941-sort-array-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -159,6 +161,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0392-is-subsequence) |
+| [0941-sort-array-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0941-sort-array-by-parity) |
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
