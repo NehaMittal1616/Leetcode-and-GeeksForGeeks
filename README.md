@@ -56,6 +56,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0072-edit-distance) |
@@ -118,6 +119,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0072-edit-distance) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -147,6 +149,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0005-longest-palindromic-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Bit Manipulation
