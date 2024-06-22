@@ -15,6 +15,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2870-longest-alternating-subarray](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2870-longest-alternating-subarray) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2892-check-if-array-is-good](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2892-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -116,6 +117,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2870-longest-alternating-subarray](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2870-longest-alternating-subarray) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 # Prefix Sum
 |  |
