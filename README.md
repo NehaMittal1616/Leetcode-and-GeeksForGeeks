@@ -57,6 +57,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0062-unique-paths) |
+| [2857-total-distance-traveled](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2857-total-distance-traveled) |
 | [3055-maximum-odd-binary-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3055-maximum-odd-binary-number) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -105,6 +106,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0874-backspace-string-compare](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0874-backspace-string-compare) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2857-total-distance-traveled](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2857-total-distance-traveled) |
 | [3164-last-visited-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3164-last-visited-integers) |
 | [3311-ant-on-the-boundary](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3311-ant-on-the-boundary) |
 | [3320-maximum-number-of-operations-with-the-same-score-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3320-maximum-number-of-operations-with-the-same-score-i) |
