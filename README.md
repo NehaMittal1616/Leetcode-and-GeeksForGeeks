@@ -93,6 +93,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Greedy
 |  |
 | ------- |
+| [2816-lexicographically-smallest-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3055-maximum-odd-binary-number) |
 | [3334-apple-redistribution-into-boxes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3334-apple-redistribution-into-boxes) |
 # Sorting
@@ -159,6 +160,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2887-sort-vowels-in-a-string) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -192,6 +194,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0941-sort-array-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0941-sort-array-by-parity) |
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Bit Manipulation
 |  |
