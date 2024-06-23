@@ -14,6 +14,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0941-sort-array-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0941-sort-array-by-parity) |
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2727-number-of-senior-citizens](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2727-number-of-senior-citizens) |
 | [2836-neither-minimum-nor-maximum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2845-find-the-value-of-the-partition](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2845-find-the-value-of-the-partition) |
@@ -150,6 +151,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2727-number-of-senior-citizens](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2887-sort-vowels-in-a-string) |
