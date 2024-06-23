@@ -16,6 +16,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
+| [2756-buy-two-chocolates](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2845-find-the-value-of-the-partition](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2845-find-the-value-of-the-partition) |
@@ -99,6 +100,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0941-sort-array-by-parity) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
+| [2756-buy-two-chocolates](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2836-neither-minimum-nor-maximum) |
 | [2845-find-the-value-of-the-partition](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2845-find-the-value-of-the-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2887-sort-vowels-in-a-string) |
