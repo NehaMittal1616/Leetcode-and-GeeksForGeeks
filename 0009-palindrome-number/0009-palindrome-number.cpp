@@ -1,10 +1,10 @@
 class Solution {
 public:
+// convert x into string and reverse it then check if the reverse string is equal to the original string or not
     bool isPalindrome(int x) {
-        int rev=x;
-        string reve=to_string(rev);
        string xe=to_string(x);
-        reverse(reve.begin(), reve.end());
-        return (reve==xe); 
+       string reve=to_string(x);
+       reverse(reve.begin(), reve.end());
+       return (xe==reve);
     }
 };
