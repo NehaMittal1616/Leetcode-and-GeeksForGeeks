@@ -21,6 +21,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2727-number-of-senior-citizens](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2756-buy-two-chocolates) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2845-find-the-value-of-the-partition](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2845-find-the-value-of-the-partition) |
@@ -103,6 +104,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Greedy
 |  |
 | ------- |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3055-maximum-odd-binary-number) |
 | [3334-apple-redistribution-into-boxes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3334-apple-redistribution-into-boxes) |
