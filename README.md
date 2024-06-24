@@ -15,6 +15,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0941-sort-array-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0941-sort-array-by-parity) |
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2727-number-of-senior-citizens](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2756-buy-two-chocolates) |
@@ -120,6 +121,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0874-backspace-string-compare) |
+| [2684-determine-the-winner-of-a-bowling-game](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2857-total-distance-traveled](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2857-total-distance-traveled) |
