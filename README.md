@@ -14,6 +14,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0518-coin-change-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0518-coin-change-ii) |
 | [0941-sort-array-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0941-sort-array-by-parity) |
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
+| [1677-matrix-diagonal-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1677-matrix-diagonal-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -95,6 +96,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
+| [1677-matrix-diagonal-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3330-modify-the-matrix) |
