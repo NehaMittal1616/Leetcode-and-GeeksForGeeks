@@ -61,6 +61,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0062-unique-paths) |
 | [2857-total-distance-traveled](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2857-total-distance-traveled) |
 | [3055-maximum-odd-binary-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3055-maximum-odd-binary-number) |
@@ -199,6 +200,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0029-divide-two-integers) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3193-maximum-strong-pair-xor-i) |
 # Sliding Window
 |  |
