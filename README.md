@@ -61,6 +61,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0062-unique-paths) |
 | [2857-total-distance-traveled](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2857-total-distance-traveled) |
