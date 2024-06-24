@@ -8,6 +8,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0120-triangle) |
+| [0204-count-primes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0204-count-primes) |
 | [0300-longest-increasing-subsequence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0300-longest-increasing-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0518-coin-change-ii) |
@@ -64,6 +65,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0009-palindrome-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0204-count-primes) |
 | [2857-total-distance-traveled](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2857-total-distance-traveled) |
 | [3055-maximum-odd-binary-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3055-maximum-odd-binary-number) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
@@ -132,6 +134,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0204-count-primes) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2870-longest-alternating-subarray) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -221,3 +224,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0204-count-primes) |
