@@ -154,6 +154,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0874-backspace-string-compare) |
