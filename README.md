@@ -17,6 +17,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1677-matrix-diagonal-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1677-matrix-diagonal-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2727-number-of-senior-citizens](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2727-number-of-senior-citizens) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
@@ -173,6 +174,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2816-lexicographically-smallest-palindrome) |
