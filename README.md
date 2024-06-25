@@ -17,6 +17,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1677-matrix-diagonal-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1677-matrix-diagonal-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2684-determine-the-winner-of-a-bowling-game) |
@@ -52,6 +53,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2892-check-if-array-is-good](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3034-points-that-intersect-with-cars](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3034-points-that-intersect-with-cars) |
@@ -116,6 +118,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0941-sort-array-by-parity) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2836-neither-minimum-nor-maximum) |
@@ -132,6 +135,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0874-backspace-string-compare) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2800-minimum-string-length-after-removing-substrings) |
