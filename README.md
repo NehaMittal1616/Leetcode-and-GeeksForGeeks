@@ -17,6 +17,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1677-matrix-diagonal-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1677-matrix-diagonal-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2727-number-of-senior-citizens](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2727-number-of-senior-citizens) |
@@ -100,6 +101,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0064-minimum-path-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0064-minimum-path-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1677-matrix-diagonal-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2398-check-if-matrix-is-x-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3330-modify-the-matrix) |
 # Greedy
