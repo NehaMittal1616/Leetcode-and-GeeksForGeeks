@@ -50,6 +50,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2892-check-if-array-is-good](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2892-check-if-array-is-good) |
 | [2978-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2978-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -147,6 +148,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0204-count-primes) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2870-longest-alternating-subarray](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2870-longest-alternating-subarray) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -174,6 +176,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0392-is-subsequence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0874-backspace-string-compare) |
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
