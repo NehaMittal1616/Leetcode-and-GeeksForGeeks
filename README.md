@@ -52,6 +52,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2892-check-if-array-is-good](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2892-check-if-array-is-good) |
@@ -182,6 +183,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1129-longest-string-chain](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1129-longest-string-chain) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2727-number-of-senior-citizens) |
@@ -230,6 +232,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Sliding Window
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3193-maximum-strong-pair-xor-i) |
 # Monotonic Stack
 |  |
