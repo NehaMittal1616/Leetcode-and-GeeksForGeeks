@@ -77,6 +77,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0029-divide-two-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0204-count-primes) |
+| [2650-split-with-minimum-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2650-split-with-minimum-sum) |
 | [2857-total-distance-traveled](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2857-total-distance-traveled) |
 | [3055-maximum-odd-binary-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3055-maximum-odd-binary-number) |
 | [3056-determine-if-a-cell-is-reachable-at-a-given-time](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3056-determine-if-a-cell-is-reachable-at-a-given-time) |
@@ -111,6 +112,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 # Greedy
 |  |
 | ------- |
+| [2650-split-with-minimum-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2650-split-with-minimum-sum) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3055-maximum-odd-binary-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3055-maximum-odd-binary-number) |
@@ -120,6 +122,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0941-sort-array-by-parity) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2650-split-with-minimum-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2650-split-with-minimum-sum) |
 | [2728-sum-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2836-neither-minimum-nor-maximum) |
