@@ -254,3 +254,10 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0204-count-primes) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [2630-alternating-digit-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2630-alternating-digit-sum) |
+<!---LeetCode Topics End-->
