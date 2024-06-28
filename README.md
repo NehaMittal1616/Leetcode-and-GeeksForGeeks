@@ -259,10 +259,12 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Math
 |  |
 | ------- |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2630-alternating-digit-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2630-alternating-digit-sum) |
 ## Array
 |  |
 | ------- |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
 ## Sorting
@@ -285,4 +287,8 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
+## Greedy
+|  |
+| ------- |
+| [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 <!---LeetCode Topics End-->
