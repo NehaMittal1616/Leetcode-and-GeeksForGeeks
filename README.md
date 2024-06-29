@@ -261,6 +261,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2619-categorize-box-according-to-criteria](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2630-alternating-digit-sum) |
 ## Array
