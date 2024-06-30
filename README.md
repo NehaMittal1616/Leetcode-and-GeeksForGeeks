@@ -259,6 +259,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Math
 |  |
 | ------- |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2619-categorize-box-according-to-criteria) |
@@ -267,6 +268,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Array
 |  |
 | ------- |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
