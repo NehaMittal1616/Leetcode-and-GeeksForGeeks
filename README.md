@@ -260,6 +260,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -351,4 +352,8 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+## Geometry
+|  |
+| ------- |
+| [2575-minimum-cuts-to-divide-a-circle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
