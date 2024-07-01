@@ -268,6 +268,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Array
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -279,6 +280,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Sorting
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Matrix
 |  |
@@ -291,11 +293,13 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Two Pointers
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
 ## Greedy
@@ -310,5 +314,10 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
