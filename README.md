@@ -295,6 +295,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Hash Table
 |  |
 | ------- |
+| [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -338,6 +339,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## String
 |  |
 | ------- |
+| [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
