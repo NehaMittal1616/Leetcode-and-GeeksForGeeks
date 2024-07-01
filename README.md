@@ -262,6 +262,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2619-categorize-box-according-to-criteria](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2630-alternating-digit-sum) |
@@ -272,6 +273,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -291,6 +293,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Hash Table
 |  |
 | ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
 ## Two Pointers
 |  |
@@ -334,4 +337,8 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
+## Number Theory
+|  |
+| ------- |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
