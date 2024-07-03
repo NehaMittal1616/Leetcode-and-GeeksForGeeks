@@ -275,6 +275,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2308-divide-array-into-equal-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -315,6 +316,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2308-divide-array-into-equal-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
