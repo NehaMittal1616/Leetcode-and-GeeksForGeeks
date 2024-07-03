@@ -272,6 +272,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -291,6 +292,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -306,6 +308,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
@@ -327,6 +330,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Greedy
 |  |
 | ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Counting
@@ -338,6 +342,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sliding Window
@@ -372,6 +377,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Simulation
 |  |
 | ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Design
 |  |
