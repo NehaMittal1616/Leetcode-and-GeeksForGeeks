@@ -259,6 +259,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Math
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2575-minimum-cuts-to-divide-a-circle) |
@@ -276,6 +277,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1791-richest-customer-wealth) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -396,6 +398,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2308-divide-array-into-equal-pairs) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 ## Number Theory
@@ -421,4 +424,16 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
