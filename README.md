@@ -276,6 +276,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1791-richest-customer-wealth) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -323,6 +324,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2226-rings-and-rods](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2226-rings-and-rods) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2308-divide-array-into-equal-pairs) |
@@ -378,6 +380,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Prefix Sum
 |  |
 | ------- |
+| [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2625-increment-submatrices-by-one](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2625-increment-submatrices-by-one) |
 ## String
 |  |
