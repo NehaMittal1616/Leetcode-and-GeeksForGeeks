@@ -406,6 +406,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [1205-defanging-an-ip-address](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1205-defanging-an-ip-address) |
 | [1472-increasing-decreasing-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1472-increasing-decreasing-string) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1894-merge-strings-alternately](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
