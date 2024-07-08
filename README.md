@@ -259,6 +259,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Math
 |  |
 | ------- |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1965-sum-of-digits-in-base-k](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
