@@ -259,6 +259,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Math
 |  |
 | ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1965-sum-of-digits-in-base-k](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1965-sum-of-digits-in-base-k) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -278,6 +279,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
 | [1206-corporate-flight-bookings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1217-relative-sort-array) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1505-create-target-array-in-the-given-order) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1704-special-positions-in-a-binary-matrix) |
@@ -437,6 +439,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1505-create-target-array-in-the-given-order) |
 | [2428-equal-row-and-column-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
