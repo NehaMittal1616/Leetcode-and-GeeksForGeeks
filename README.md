@@ -275,6 +275,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Array
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
 | [1206-corporate-flight-bookings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1206-corporate-flight-bookings) |
@@ -312,6 +313,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [1217-relative-sort-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1217-relative-sort-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -357,6 +359,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [1894-merge-strings-alternately](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -373,6 +376,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2616-maximal-score-after-applying-k-operations) |
