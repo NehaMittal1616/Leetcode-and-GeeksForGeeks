@@ -283,6 +283,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1505-create-target-array-in-the-given-order) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1791-richest-customer-wealth](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1791-richest-customer-wealth) |
@@ -341,6 +342,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [1217-relative-sort-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1217-relative-sort-array) |
 | [1472-increasing-decreasing-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1472-increasing-decreasing-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -384,6 +386,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [1472-increasing-decreasing-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1472-increasing-decreasing-string) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2308-divide-array-into-equal-pairs) |
