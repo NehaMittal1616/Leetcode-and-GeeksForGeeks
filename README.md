@@ -314,6 +314,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
 | [3463-alternating-groups-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3463-alternating-groups-i) |
+| [3469-maximum-height-of-a-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3469-maximum-height-of-a-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -480,6 +481,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3469-maximum-height-of-a-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3469-maximum-height-of-a-triangle) |
 ## Counting Sort
 |  |
 | ------- |
