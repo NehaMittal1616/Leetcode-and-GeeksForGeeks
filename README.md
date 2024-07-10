@@ -313,6 +313,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2625-increment-submatrices-by-one](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
+| [3463-alternating-groups-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3463-alternating-groups-i) |
 ## Sorting
 |  |
 | ------- |
@@ -408,6 +409,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
+| [3463-alternating-groups-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
 |  |
 | ------- |
