@@ -315,6 +315,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
 | [3463-alternating-groups-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3463-alternating-groups-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3469-maximum-height-of-a-triangle) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -328,6 +329,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -374,6 +376,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
 |  |
 | ------- |
