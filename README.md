@@ -260,6 +260,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
+| [1010-powerful-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1010-powerful-integers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1965-sum-of-digits-in-base-k](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1965-sum-of-digits-in-base-k) |
@@ -349,6 +350,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1010-powerful-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1010-powerful-integers) |
 | [1217-relative-sort-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1217-relative-sort-array) |
 | [1472-increasing-decreasing-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -484,6 +486,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Enumeration
 |  |
 | ------- |
+| [1010-powerful-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1010-powerful-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3469-maximum-height-of-a-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3469-maximum-height-of-a-triangle) |
 ## Counting Sort
