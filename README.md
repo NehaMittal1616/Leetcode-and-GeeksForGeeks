@@ -433,6 +433,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2536-determine-if-two-events-have-conflict](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
+| [3468-find-the-encrypted-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3468-find-the-encrypted-string) |
 ## Bit Manipulation
 |  |
 | ------- |
