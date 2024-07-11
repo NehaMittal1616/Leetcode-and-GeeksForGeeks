@@ -351,6 +351,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
 | [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1010-powerful-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1010-powerful-integers) |
@@ -431,6 +432,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
 | [0878-shifting-letters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0920-uncommon-words-from-two-sentences) |
