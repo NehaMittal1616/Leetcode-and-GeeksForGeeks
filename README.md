@@ -285,6 +285,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0878-shifting-letters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
+| [1041-available-captures-for-rook](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1041-available-captures-for-rook) |
 | [1206-corporate-flight-bookings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1217-relative-sort-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -342,6 +343,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0566-reshape-the-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
+| [1041-available-captures-for-rook](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1041-available-captures-for-rook) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1791-richest-customer-wealth) |
@@ -474,6 +476,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
+| [1041-available-captures-for-rook](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1505-create-target-array-in-the-given-order) |
 | [2428-equal-row-and-column-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2428-equal-row-and-column-pairs) |
