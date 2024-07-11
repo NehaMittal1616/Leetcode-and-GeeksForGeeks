@@ -323,6 +323,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2625-increment-submatrices-by-one](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [3463-alternating-groups-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3463-alternating-groups-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -357,6 +358,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2625-increment-submatrices-by-one](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 ## Hash Table
 |  |
 | ------- |
