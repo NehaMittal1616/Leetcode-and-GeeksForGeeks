@@ -477,6 +477,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
+| [0225-implement-stack-using-queues](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0225-implement-stack-using-queues) |
 ## Trie
 |  |
 | ------- |
@@ -511,4 +512,12 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0190-reverse-bits) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
