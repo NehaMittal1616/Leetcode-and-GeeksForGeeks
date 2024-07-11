@@ -259,6 +259,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0263-ugly-number) |
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
 | [1010-powerful-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1010-powerful-integers) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
