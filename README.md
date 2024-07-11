@@ -451,6 +451,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0190-reverse-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2308-divide-array-into-equal-pairs) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
@@ -506,4 +507,8 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1511-count-number-of-teams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
