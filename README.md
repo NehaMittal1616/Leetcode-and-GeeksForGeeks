@@ -301,6 +301,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -351,6 +352,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1791-richest-customer-wealth) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2625-increment-submatrices-by-one](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2625-increment-submatrices-by-one) |
@@ -484,6 +486,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1041-available-captures-for-rook](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1505-create-target-array-in-the-given-order) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
