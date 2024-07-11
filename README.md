@@ -312,6 +312,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
@@ -340,6 +341,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -356,6 +358,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1791-richest-customer-wealth](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1791-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2428-equal-row-and-column-pairs) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2625-increment-submatrices-by-one](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2625-increment-submatrices-by-one) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -428,6 +431,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Sliding Window
@@ -493,6 +497,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2132-convert-1d-array-into-2d-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Design
 |  |
