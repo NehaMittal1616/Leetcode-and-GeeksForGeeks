@@ -288,6 +288,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0566-reshape-the-matrix) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
+| [0822-unique-morse-code-words](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
@@ -383,6 +384,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0822-unique-morse-code-words](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0822-unique-morse-code-words) |
 | [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1010-powerful-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1010-powerful-integers) |
@@ -467,6 +469,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
+| [0822-unique-morse-code-words](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0822-unique-morse-code-words) |
 | [0878-shifting-letters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0878-shifting-letters) |
 | [0889-buddy-strings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0920-uncommon-words-from-two-sentences) |
