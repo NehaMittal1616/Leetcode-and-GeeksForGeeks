@@ -281,6 +281,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0228-summary-ranges](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0228-summary-ranges) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
@@ -337,6 +338,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1094-matrix-cells-in-distance-order) |
@@ -374,6 +376,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -458,6 +461,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
 | [0878-shifting-letters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0878-shifting-letters) |
