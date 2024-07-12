@@ -290,6 +290,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
 | [1041-available-captures-for-rook](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1094-matrix-cells-in-distance-order) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1206-corporate-flight-bookings](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1206-corporate-flight-bookings) |
 | [1217-relative-sort-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1217-relative-sort-array) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -356,6 +357,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
 | [1041-available-captures-for-rook](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1094-matrix-cells-in-distance-order) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1791-richest-customer-wealth) |
@@ -557,4 +559,8 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
