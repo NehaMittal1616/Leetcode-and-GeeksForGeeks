@@ -282,6 +282,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0228-summary-ranges](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0228-summary-ranges) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -362,6 +363,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0037-sudoku-solver) |
 | [0566-reshape-the-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
@@ -384,6 +386,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
@@ -540,6 +543,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0037-sudoku-solver) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
