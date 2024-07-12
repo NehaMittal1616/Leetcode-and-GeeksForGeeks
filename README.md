@@ -276,6 +276,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2619-categorize-box-according-to-criteria](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2619-categorize-box-according-to-criteria) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2630-alternating-digit-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3227-find-missing-and-repeated-values) |
 ## Array
 |  |
 | ------- |
@@ -326,6 +327,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2737-row-with-maximum-ones) |
+| [3227-find-missing-and-repeated-values](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3227-find-missing-and-repeated-values) |
 | [3463-alternating-groups-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3463-alternating-groups-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3469-maximum-height-of-a-triangle) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -364,6 +366,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2737-row-with-maximum-ones](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2737-row-with-maximum-ones) |
+| [3227-find-missing-and-repeated-values](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -390,6 +393,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
+| [3227-find-missing-and-repeated-values](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
