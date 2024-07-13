@@ -322,6 +322,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2543-most-popular-video-creator](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2543-most-popular-video-creator) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
@@ -355,6 +356,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2543-most-popular-video-creator](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2543-most-popular-video-creator) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -412,6 +414,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2480-find-subarrays-with-equal-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2543-most-popular-video-creator](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2543-most-popular-video-creator) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2634-minimum-common-value](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2634-minimum-common-value) |
@@ -458,6 +461,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2543-most-popular-video-creator](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2543-most-popular-video-creator) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -497,6 +501,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [2226-rings-and-rods](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2226-rings-and-rods) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2536-determine-if-two-events-have-conflict) |
+| [2543-most-popular-video-creator](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2543-most-popular-video-creator) |
 | [2603-reward-top-k-students](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2603-reward-top-k-students) |
 | [2632-apply-bitwise-operations-to-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2632-apply-bitwise-operations-to-make-strings-equal) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
