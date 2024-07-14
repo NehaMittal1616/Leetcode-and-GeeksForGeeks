@@ -285,6 +285,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0036-valid-sudoku](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0059-spiral-matrix-ii) |
@@ -563,6 +564,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0037-sudoku-solver](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0047-permutations-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
