@@ -402,6 +402,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0523-continuous-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0822-unique-morse-code-words](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0822-unique-morse-code-words) |
@@ -432,6 +433,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [1894-merge-strings-alternately](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -477,6 +479,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [3463-alternating-groups-i](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3463-alternating-groups-i) |
 ## Prefix Sum
@@ -493,6 +496,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
+| [0567-permutation-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0782-jewels-and-stones) |
 | [0808-number-of-matching-subsequences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [0822-unique-morse-code-words](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0822-unique-morse-code-words) |
