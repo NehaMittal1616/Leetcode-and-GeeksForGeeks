@@ -285,6 +285,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0036-valid-sudoku](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0054-spiral-matrix) |
 | [0228-summary-ranges](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0228-summary-ranges) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
@@ -368,6 +369,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0036-valid-sudoku](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
@@ -531,6 +533,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
 | [1041-available-captures-for-rook](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1041-available-captures-for-rook) |
