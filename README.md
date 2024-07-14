@@ -301,6 +301,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0878-shifting-letters](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0878-shifting-letters) |
 | [0898-transpose-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
+| [0958-sort-array-by-parity-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0958-sort-array-by-parity-ii) |
 | [1041-available-captures-for-rook](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1094-matrix-cells-in-distance-order) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -356,6 +357,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0808-number-of-matching-subsequences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0808-number-of-matching-subsequences) |
+| [0958-sort-array-by-parity-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0958-sort-array-by-parity-ii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1094-matrix-cells-in-distance-order) |
 | [1217-relative-sort-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1217-relative-sort-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -437,6 +439,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
+| [0958-sort-array-by-parity-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0958-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1894-merge-strings-alternately) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
