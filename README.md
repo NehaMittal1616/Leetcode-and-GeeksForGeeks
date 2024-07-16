@@ -444,6 +444,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0016-3sum-closest) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
@@ -509,6 +510,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0006-zigzag-conversion) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
@@ -632,4 +634,8 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [1171-shortest-path-in-binary-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1171-shortest-path-in-binary-matrix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
