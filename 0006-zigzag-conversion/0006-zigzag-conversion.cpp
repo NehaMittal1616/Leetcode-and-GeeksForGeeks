@@ -2,7 +2,8 @@ class Solution {
 public:
     string convert(string s, int numRows) {
         if (numRows == 1) return s;
-        vector<string>ans(numRows);
+        vector<string>ans(numRows); // O(numRows) space complexity
+        // worst case O(N) space complexity
         for(int i=0;i<numRows;i++)
         {
             ans[i]="";
@@ -19,7 +20,7 @@ public:
                 ans[index]+=s[i++];
             }
         }
-        string result="";
+        string result=""; // will have same number of characters as s so sc=>O(N)
         for(string str:ans)
         {
           result+=str;
@@ -27,3 +28,4 @@ public:
         return result;
     }
 };
+// tc =>O(N) and SC=> O(N) where N is the length of the string s
