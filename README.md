@@ -504,6 +504,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
