@@ -283,6 +283,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0046-permutations) |
@@ -354,6 +355,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
@@ -441,6 +443,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0016-3sum-closest) |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
