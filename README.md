@@ -259,6 +259,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0523-continuous-subarray-sum) |
