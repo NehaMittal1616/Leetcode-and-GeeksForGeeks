@@ -262,6 +262,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0007-reverse-integer](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0523-continuous-subarray-sum) |
 | [0928-surface-area-of-3d-shapes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0928-surface-area-of-3d-shapes) |
 | [1010-powerful-integers](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1010-powerful-integers) |
@@ -543,6 +544,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0190-reverse-bits) |
+| [0342-power-of-four](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0389-find-the-difference) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -629,6 +631,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0342-power-of-four) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Breadth-First Search
 |  |
