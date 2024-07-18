@@ -472,6 +472,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
+| [2154-minimum-moves-to-convert-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2154-minimum-moves-to-convert-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -538,6 +539,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1970-sorting-the-sentence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1970-sorting-the-sentence) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2154-minimum-moves-to-convert-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2154-minimum-moves-to-convert-string) |
 | [2226-rings-and-rods](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2226-rings-and-rods) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2536-determine-if-two-events-have-conflict) |
