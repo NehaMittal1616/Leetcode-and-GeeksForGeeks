@@ -447,6 +447,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0567-permutation-in-string) |
@@ -655,6 +656,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
