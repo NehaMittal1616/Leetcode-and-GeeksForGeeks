@@ -635,6 +635,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0342-power-of-four) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -646,4 +647,8 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
