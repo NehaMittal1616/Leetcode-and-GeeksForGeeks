@@ -651,4 +651,5 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0203-remove-linked-list-elements) |
+| [0237-delete-node-in-a-linked-list](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
