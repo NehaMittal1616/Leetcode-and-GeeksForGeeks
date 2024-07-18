@@ -412,6 +412,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0523-continuous-subarray-sum) |
@@ -476,6 +477,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0383-ransom-note) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1472-increasing-decreasing-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1472-increasing-decreasing-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -516,6 +518,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0782-jewels-and-stones) |
