@@ -536,6 +536,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1970-sorting-the-sentence](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1970-sorting-the-sentence) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2226-rings-and-rods](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2226-rings-and-rods) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -575,6 +576,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [1041-available-captures-for-rook](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1041-available-captures-for-rook) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1505-create-target-array-in-the-given-order) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
