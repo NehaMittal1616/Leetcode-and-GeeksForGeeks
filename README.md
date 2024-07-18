@@ -454,6 +454,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0958-sort-array-by-parity-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
@@ -654,4 +655,5 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0237-delete-node-in-a-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
