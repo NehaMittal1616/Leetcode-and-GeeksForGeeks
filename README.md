@@ -293,6 +293,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0059-spiral-matrix-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0228-summary-ranges](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0228-summary-ranges) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
@@ -464,6 +465,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0658-find-k-closest-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0658-find-k-closest-elements) |
 | [0808-number-of-matching-subsequences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
