@@ -261,6 +261,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0007-reverse-integer](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0007-reverse-integer) |
 | [0172-factorial-trailing-zeroes](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0172-factorial-trailing-zeroes) |
+| [0241-different-ways-to-add-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0342-power-of-four) |
@@ -522,6 +523,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0208-implement-trie-prefix-tree) |
+| [0241-different-ways-to-add-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0389-find-the-difference) |
@@ -622,6 +624,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0808-number-of-matching-subsequences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [1511-count-number-of-teams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
@@ -645,6 +648,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0203-remove-linked-list-elements) |
+| [0241-different-ways-to-add-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0342-power-of-four) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -664,4 +668,8 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0203-remove-linked-list-elements](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
