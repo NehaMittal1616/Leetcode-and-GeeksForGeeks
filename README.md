@@ -296,6 +296,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | [0059-spiral-matrix-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0228-summary-ranges](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0228-summary-ranges) |
+| [0312-burst-balloons](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0312-burst-balloons) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0523-continuous-subarray-sum) |
@@ -627,6 +628,7 @@ Welcome to my LeetCode and GeeksforGeeks Solutions repository! This repository s
 | ------- |
 | [0097-interleaving-string](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0097-interleaving-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0241-different-ways-to-add-parentheses) |
+| [0312-burst-balloons](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0312-burst-balloons) |
 | [0808-number-of-matching-subsequences](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/0808-number-of-matching-subsequences) |
 | [1511-count-number-of-teams](https://github.com/NehaMittal1616/Leetcode-and-GeeksForGeeks/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
